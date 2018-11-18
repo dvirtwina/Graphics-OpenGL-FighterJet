@@ -1,0 +1,5 @@
+﻿  first.cpp
+h:\גרפיקה ממוחשבת\homework\hw4\hw4\firstexample\first.cpp(89): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+h:\גרפיקה ממוחשבת\homework\hw4\hw4\firstexample\first.cpp(88): warning C4101: 'j': unreferenced local variable
+  FirstExample.vcxproj -> H:\גרפיקה ממוחשבת\homework\HW4\HW4\Debug\FirstExample.exe
+  FirstExample.vcxproj -> H:\גרפיקה ממוחשבת\homework\HW4\HW4\Debug\FirstExample.pdb (Full PDB)
